@@ -9,7 +9,7 @@ env:
   LOCATION: southindia
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 1b64dc98-18d8-4be6-8815-b8130d627be7
-  WEBAPP-NAME: az400-webapp-GITHUBActions_CICD
+  WEBAPP-NAME: az400-webapp-GITHUBActions-CICD
 
 
 jobs:
